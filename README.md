@@ -2,6 +2,9 @@
 ![Statistics](https://github-readme-stats.vercel.app/api?username=mrzResearchArena&show_icons=true&hide_border=true)
 
 
+<!-- Top Language -->
+![Programming](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzResearchArena)
+
 <!--
 **mrzResearchArena/mrzResearchArena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
