@@ -1,5 +1,5 @@
 <!-- Github Stats -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=mrzResearchArena&show_icons=true&hide_border=true)
+[Statistics](https://github-readme-stats.vercel.app/api?username=mrzResearchArena&show_icons=true&hide_border=true)
 
 
 <!--
