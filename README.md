@@ -2,12 +2,6 @@
 [![Website](https://img.shields.io/website?label=rafsanjani.pythonanywhere.com&style=for-the-badge&url=http://rafsanjani.pythonanywhere.com/)](http://rafsanjani.pythonanywhere.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rafsanjaniLab?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rafsanjaniLab)
 
-### Connect with me:
-[<img align="left" alt="rafsanjani.pythonanywhere.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="rafsanjaniLab | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rafsanjaniLab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 <!-- Github Stats -->
 ![Statistics](https://github-readme-stats.vercel.app/api?username=mrzResearchArena&show_icons=true&hide_border=true)
 
