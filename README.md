@@ -8,7 +8,7 @@
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/rafsanjaniLab/) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/rafsanjaniLab/)
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/rafsanjaniLab/) -->
 [<img src ="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22&color=black">](http://rafsanjani.pythonanywhere.com/)
 [![Visits Badge](https://badges.pufler.dev/visits/mrzresearcharena/mrzresearcharena?style=for-the-badge&color=black)](https://github.com/mrzresearcharena/mrzresearcharena)
 
